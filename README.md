@@ -1,0 +1,2 @@
+# gestionProduitsDecomposition
+Angular décompositions components
